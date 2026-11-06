@@ -35,13 +35,17 @@ Open `index.html` in a modern browser. No backend, API, or external data files a
 ## Customize
 VYRA One is a fictional product concept for this student project. Edit the product copy, colors, and concept price in `index.html` and `style.css`. The CTA only displays an informational message; it does not process orders or payments. Feature descriptions are illustrative and are not verified product specifications.
 
-## Screenshots for submission
-After publishing, capture the homepage and feature/CTA sections at:
-- Mobile: 375px wide
-- Tablet: 768px wide
-- Desktop: 1280px or wider
+## Screenshots
 
-Add screenshots to a `screenshots/` folder and embed them here, for example:
-`![Mobile homepage](screenshots/mobile-home.png)`
+### Desktop View
+![Desktop Screenshot](Screenshots/desktop1280.png)
+
+### Tablet View
+![Tablet Screenshot](Screenshots/tablet768.png)
+
+### Mobile View
+![Mobile Screenshot](Screenshots/mobile365.png)
+
+**Note:** This is a frontend student concept, not a real product store. Test the live site and interactions before submitting.
 
 **Note:** This is a frontend student concept, not a real product store. Test the live site and interactions before submitting.
